@@ -1,7 +1,8 @@
 plugins:
     - convertPathData:
         noSpaceAfterFlags: false
-    - removeViewBox: false
+    - removeViewBox: true
+    - removeDimensions: false
     - removeRasterImages: true
     - cleanupListOfValues: true
     - sortAttrs: true

@@ -7,7 +7,7 @@ SRC = Path('src')
 SRC_ICONS = SRC / 'icons'
 DIST = Path('dist')
 SHAPES = ['rect', 'round', 'square']
-SIZE = 200 # Set to None to disable PNG creation
+SIZE = 200
 COLORS = {
     'Yeallow': '#ffda44',
     'Orange': '#ff9811',
@@ -33,11 +33,14 @@ if not DIST.is_dir():
 def svgo(input_, output):
     os.system(f'svgo -p 3 --pretty --multipass --config=build.config.yml "{input_}" -o "{output}"')
 
+def resize(input_, output):
+    os.system(f'magick "{input_}" -resize x{SIZE} +dither -quality 90 "{output}"')
+
 def svg2png(input_, output):
     cairosvg.svg2png(
         url=str(input_),
         write_to=str(output),
-        output_height=SIZE
+        output_height=SIZE,
     )
 
 for path in chain(SRC_ICONS.glob('*.svg'), SRC.glob('*.svg')):
@@ -46,3 +49,4 @@ for path in chain(SRC_ICONS.glob('*.svg'), SRC.glob('*.svg')):
     if SIZE is not None:
         output = DIST / f'{path.stem}.png'
         svg2png(input_, output)
+        resize(output, output)
