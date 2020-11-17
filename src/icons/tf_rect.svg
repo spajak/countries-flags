@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="512" viewBox="0 0 768 512">
+    <path fill="#0052b4" d="M0 .005h768v511.996H0z"/>
+    <path fill="#f0f0f0" d="M0 0h384v256.5H0z"/>
+    <path fill="#0052b4" d="M0 0h127.997v256H0z"/>
+    <path fill="#d80027" d="M256.002 0H384v256H256.002z"/>
+    <path fill="#f0f0f0" d="M384 0h16v272h-16z" paint-order="fill markers stroke"/>
+    <path fill="#f0f0f0" d="M0 256h390v16H0z" paint-order="fill markers stroke"/>
+</svg>

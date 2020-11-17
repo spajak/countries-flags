@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="nr_square.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:current-layer="svg8" />
+  <path
+     fill="#0052b4"
+     d="M0 0h512v512H0z"
+     id="path2" />
+  <path
+     fill="#ffda44"
+     d="m 0,230 h 512 v 50 H 0 Z"
+     id="path4"
+     style="stroke-width:0.883884" />
+  <path
+     fill="#f0f0f0"
+     d="m 192,382 -26.151,12.301 13.925,25.327 -28.397,-5.432 -3.598,28.685 L 128,421.784 108.22,442.881 104.623,414.196 76.226,419.626 90.15,394.3 64,382 90.151,369.699 76.226,344.374 l 28.396,5.43 3.599,-28.685 19.779,21.097 19.78,-21.097 3.597,28.685 28.398,-5.43 -13.925,25.326 z"
+     id="path6" />
+</svg>
