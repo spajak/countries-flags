@@ -1,5 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-    <path fill="#f0f0f0" d="M0 .019h512v511.978H0z"/>
-    <path fill="#d80027" d="M256 .003h256v511.989H256z"/>
-    <path fill="#acabb1" d="M94.638 58.686V32.019H67.971v26.667H41.304v26.667h26.667v26.666h26.667V85.353h26.666V58.686z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="mt_square.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:current-layer="svg8" />
+  <path
+     fill="#f0f0f0"
+     d="M0 .019h512v511.978H0z"
+     id="path2" />
+  <path
+     fill="#d80027"
+     d="M256 .003h256v511.989H256z"
+     id="path4" />
+  <path
+     fill="#acabb1"
+     d="M 107.9715,65.35275 V 32.019 H 74.63775 V 65.35275 H 41.304 V 98.6865 H 74.63775 V 132.019 H 107.9715 V 98.6865 H 141.304 V 65.35275 Z"
+     id="path6"
+     style="stroke-width:1.25" />
 </svg>

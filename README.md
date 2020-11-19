@@ -12,7 +12,11 @@ All countries and territories as per [ISO 3166](https://en.wikipedia.org/wiki/IS
 
 ![US Flag rectangle](https://www.spajak.blue/share/files/flags/icons/us_rect.png "US Flag rectangle") ![US Flag round](https://www.spajak.blue/share/files/flags/icons/us_round.png "US Flag round") ![US Flag square](https://www.spajak.blue/share/files/flags/icons/us_square.png "US Flag square")
 
+---
+
 ![Brazil Flag rectangle](https://www.spajak.blue/share/files/flags/icons/br_rect.png "Brazil Flag rectangle") ![Brazil Flag round](https://www.spajak.blue/share/files/flags/icons/br_round.png "Brazil Flag round") ![Brazil Flag square](https://www.spajak.blue/share/files/flags/icons/br_square.png "Brazil Flag square")
+
+---
 
 ![South Korea Flag rectangle](https://www.spajak.blue/share/files/flags/icons/kr_rect.png "South Korea Flag rectangle") ![South Korea Flag round](https://www.spajak.blue/share/files/flags/icons/kr_round.png "South Korea Flag round") ![South Korea Flag square](https://www.spajak.blue/share/files/flags/icons/kr_square.png "South Korea Flag square")
 

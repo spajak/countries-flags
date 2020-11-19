@@ -1,5 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="768" height="512" viewBox="0 0 768 512">
-    <path fill="#0052b4" d="M0 0h768v512H0z"/>
-    <path fill="#d80027" d="M0 0h768v150H0zm0 362h768v150H0z"/>
-    <ellipse cx="384" cy="256" fill="#f0f0f0" rx="85" ry="85.002"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="768"
+   height="512"
+   viewBox="0 0 768 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="la_rect.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:current-layer="svg8" />
+  <path
+     fill="#0052b4"
+     d="M0 0h768v512H0z"
+     id="path2" />
+  <path
+     fill="#d80027"
+     d="M 0,0 H 768 V 145 H 0 Z M 0,367 H 768 V 512 H 0 Z"
+     id="path4"
+     sodipodi:nodetypes="cccccccccc" />
+  <ellipse
+     cx="384"
+     cy="256"
+     fill="#f0f0f0"
+     rx="90"
+     ry="90.002113"
+     id="ellipse6"
+     style="stroke-width:1.05882" />
 </svg>

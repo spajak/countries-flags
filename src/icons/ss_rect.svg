@@ -1,8 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="768" height="512" viewBox="0 0 768 512">
-    <path fill="#f0f0f0" d="M0 .009h768v511.983H0z"/>
-    <path fill="#496e2d" d="M0 356.174h768v155.818H0z"/>
-    <path d="M0 .009h768V156.78H0z"/>
-    <path fill="#d80027" d="M0 188.317h768V322.8H0z"/>
-    <path fill="#0052b4" d="M0 512V0l384 256.01z"/>
-    <path fill="#ffda44" d="M191.574 299.934l-50.909-16.907-31.811 43.191.35-53.642-50.91-16.91 51.125-16.245.348-53.637 31.247 43.6 51.125-16.245-31.81 43.192z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="768"
+   height="512"
+   viewBox="0 0 768 512"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="ss_rect.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:current-layer="svg14" />
+  <path
+     fill="#f0f0f0"
+     d="M0 .009h768v511.983H0z"
+     id="path2" />
+  <path
+     fill="#496e2d"
+     d="M0 356.174h768v155.818H0z"
+     id="path4"
+     style="fill:#6da544;fill-opacity:1" />
+  <path
+     d="M0 .009h768V156.78H0z"
+     id="path6" />
+  <path
+     fill="#d80027"
+     d="M0 188.317h768V322.8H0z"
+     id="path8" />
+  <path
+     fill="#0052b4"
+     d="M0 512V0l384 256.01z"
+     id="path10" />
+  <path
+     fill="#ffda44"
+     d="M191.574 299.934l-50.909-16.907-31.811 43.191.35-53.642-50.91-16.91 51.125-16.245.348-53.637 31.247 43.6 51.125-16.245-31.81 43.192z"
+     id="path12" />
 </svg>

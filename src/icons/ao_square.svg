@@ -1,9 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-    <path d="M0 0h512v512H0z"/>
-    <path fill="#d80027" d="M0 0h512v256H0z"/>
-    <g fill="#ffda44">
-        <path d="M227.65 204.579l19.267 13.98-7.342 22.645 19.25-14.003 19.27 13.982-7.373-22.638 19.253-14.005-23.806.015-7.37-22.636-7.344 22.645z"/>
-        <path d="M315.627 152.677a112.89 112.89 0 0 0-56.815-15.186v29.636a83.444 83.444 0 0 1 41.994 11.222c40.108 23.155 53.9 74.624 30.742 114.73-23.154 40.108-74.624 53.9-114.73 30.743a83.436 83.436 0 0 1-28.071-26.475L164 313.687c9.41 14.3 22.188 26.681 37.995 35.808 54.264 31.328 123.895 12.67 155.225-41.592 31.329-54.263 12.671-123.896-41.593-155.226z"/>
-        <path d="M193.285 231.325c-7.856 14.363-2.582 32.376 11.78 40.234l96.275 52.607c-6.546 11.969-3.07 26.535 8.898 33.082l26.008 14.226c11.97 6.547 26.98 2.151 33.528-9.817L384 335.65z"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="ao_square.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:current-layer="svg14" />
+  <path
+     d="M0 0h512v512H0z"
+     id="path2" />
+  <path
+     fill="#d80027"
+     d="M0 0h512v256H0z"
+     id="path4" />
+  <g
+     fill="#ffda44"
+     id="g12"
+     transform="matrix(1.0909091,0,0,1.0909091,-22.909091,-18.499154)">
+    <path
+       d="m 227.65,204.579 19.267,13.98 -7.342,22.645 19.25,-14.003 19.27,13.982 -7.373,-22.638 19.253,-14.005 -23.806,0.015 -7.37,-22.636 -7.344,22.645 z"
+       id="path6" />
+    <path
+       d="m 315.627,152.677 a 112.89,112.89 0 0 0 -56.815,-15.186 v 29.636 a 83.444,83.444 0 0 1 41.994,11.222 c 40.108,23.155 53.9,74.624 30.742,114.73 -23.154,40.108 -74.624,53.9 -114.73,30.743 A 83.436,83.436 0 0 1 188.747,297.347 L 164,313.687 c 9.41,14.3 22.188,26.681 37.995,35.808 54.264,31.328 123.895,12.67 155.225,-41.592 31.329,-54.263 12.671,-123.896 -41.593,-155.226 z"
+       id="path8" />
+    <path
+       d="m 193.285,231.325 c -7.856,14.363 -2.582,32.376 11.78,40.234 l 96.275,52.607 c -6.546,11.969 -3.07,26.535 8.898,33.082 l 26.008,14.226 c 11.97,6.547 26.98,2.151 33.528,-9.817 L 384,335.65 Z"
+       id="path10" />
+  </g>
 </svg>
